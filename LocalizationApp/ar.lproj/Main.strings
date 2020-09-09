@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "English"; ObjectID = "6OQ-aE-iCG"; */
+"6OQ-aE-iCG.text" = "English";
+
+/* Class = "UILabel"; text = "Current Language"; ObjectID = "UjO-Bq-FR1"; */
+"UjO-Bq-FR1.text" = "Current Language";
+
+/* Class = "UIButton"; normalTitle = "Change Language"; ObjectID = "w4E-S1-ZJi"; */
+"w4E-S1-ZJi.normalTitle" = "Change Language";

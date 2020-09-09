@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  LocalizationApp
+
+  Created by Swaminath on 11/29/18.
+  Copyright © 2018 msr. All rights reserved.
+*/
+"Headertext" = "الإنكليزية";
+"ChangeLanguage" = "تغيير اللغة";
